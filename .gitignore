@@ -1,0 +1,27 @@
+# IDEs
+.idea/
+.vscode/
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node.js
+node_modules/
+dist/
+coverage/
+
+# Java
+*.class
+target/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
